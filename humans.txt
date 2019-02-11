@@ -4,7 +4,8 @@
 # TEAM
 
     Diovan -- Programador -- Facebook
-    Diovan -- Desenvolvedor -- BackEnd 
+    Diovan -- Desenvolvedor -- BackEnd
+    Diovan -- FullStack -- Developer 
 
 # THANKS
 
